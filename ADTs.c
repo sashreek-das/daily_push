@@ -4,6 +4,9 @@ struct myArr{
     int length;
     int data;
 };
+void create(){
+    
+}
 int main(){
 
 return 0;
